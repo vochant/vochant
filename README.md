@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-English | [简体中文](README_zh_Hans.md) | [正體中文/繁體中文](README_zh_Hant.md] | [日本語](README_ja.md) | [Minfist](README_mf.md)
+English | [简体中文](README_zh_Hans.md) | [正體中文/繁體中文](README_zh_Hant.md) | [日本語](README_ja.md) | [Minfist](README_mf.md)
 
 Hello! I'm **Vochant**, sometimes called **Mirekintoc** or **Mrkn**, a 15-year-old junior high school student from China and a participant in the **Olympiad in Informatics**. I mainly use **C/C++** for development, as this is also the most commonly used programming language for the Olympiad in Informatics. Perhaps this account, which has existed since I was in junior high school, will exist for a long time.
 
