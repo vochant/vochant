@@ -4,7 +4,7 @@
 
 Honsu! Sa **Vochant**, ylo sόnna **Mirekintoc** io **Mrkn**. Sa re ot Cinos ille javό noev prόdi, li re **Kramto Piut**oe enoi. If dras **C/C++** pydablena, li sel Kramto Piuter kem nόmist. Io lintehό ot hoinna noev prόdso dima elite tse. 
 
-- 🌱 Ello no Dshédciang Hangdshou Hupan Noev Prόdso prόdjana kemprόdva. 
+- 🌱 Ello no Dshédciang Hangdshou Nofleke Noev Prόdso prόdjana kemprόdva. 
 - 🥇 Ello no Dshédciang Hangdshou Rof.2 Hoev Prόdso prόdjana Kramto Piut (Ota oskte to Noev Piut noepmon).
 - ✨ Hosju Pyob ite: MRKNVOID ([Codeforces](https://codeforces.com/profile/MRKNVOID), [AtCoder](https://atcoder.jp/users/MRKNVOID)), Mrkn_chenyx12 ([Luogu](https://www.luogu.com/user/556000), kem yna)
 - 📣 Imesoe ite: [X/Twitter](https://x.com/mirekintoc), [Bilibili](https://space.bilibili.com/660602059) (Kemkí yna eimma)
