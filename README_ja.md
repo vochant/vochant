@@ -10,3 +10,6 @@
 - 📣 SNS アカウント: [X/Twitter](https://x.com/mirekintoc)、[Bilibili](https://space.bilibili.com/660602059) (最もよく使われているもの)
 - 📫 <mailto:vochant@outlook.com> または <mailto:mirekintovoid@gmail.com>
 - 😄 人称代名詞：「彼」
+
+> [!TIP]
+> Vochant の母国語は中国語です。この自己紹介の日本語版はすべて翻訳者によって作成されました。不正確な点や、より良い表現方法があればお知らせください。
