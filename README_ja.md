@@ -2,7 +2,7 @@
 
 [English](README.md) | [简体中文](README_zh_Hans.md) | [正體中文/繁體中文](README_zh_Hant.md) | 日本語 | [Minfist](README_mf.md)
 
-こんにちは！私は **Vochant** です。**Mirekintoc** や **Mrkn** と呼ばれることもあります。私は中国出身の 15 歳の中学生で、**情報オリンピック**の参加者です。私は開発に主に **C/C++** を使用していますが、これは情報オリンピックでも一般的なプログラミング言語です。中学校入学の頃から存在していたこのアカウントは、もしかしたらずっと存在し続けることになるかもしれない。
+こんにちは！私は **Vochant** です。**Mirekintoc** や **Mrkn** と呼ばれることもあります。私は中国出身の 15 歳の高校生で、**情報オリンピック**の参加者です。私は開発に主に **C/C++** を使用していますが、これは情報オリンピックでも一般的なプログラミング言語です。中学校入学の頃から存在していたこのアカウントは、もしかしたらずっと存在し続けることになるかもしれない。
 
 - 🌱 現在浙江省の杭州第二中学校に通っています
 - ✨ Online Judge アカウント：MRKNVOID（[Codeforces](https://codeforces.com/profile/MRKNVOID)，[AtCoder](https://atcoder.jp/users/MRKNVOID)），Mrkn_chenyx12（[Luogu](https://www.luogu.com/user/556000)，よく使われる）
